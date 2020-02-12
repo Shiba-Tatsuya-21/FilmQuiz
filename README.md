@@ -1,2 +1,2 @@
 # FilmQuiz
-Projet de mini quiz sur des film réalisé en Android.
+Projet de mini quiz sur des films réalisés en Android.
